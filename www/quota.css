@@ -1,0 +1,74 @@
+/*  CSS QUOTA PACKAGE  - UVEG - fransola@uv.es  */
+
+td.param {font-weight:bold; padding-left:20px;vertical-align:top}
+td.info {font-size:80%; padding-left:20px}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  OLD  */
+a.t:hover {background:#ffcc00;padding-top:5px;padding-bottom:2px;}
+a.button1 {font: 100% arial; border: solid 1px black; background-color: #99ccff; text-align: center; padding: 2px; padding-left: 8px; padding-right: 8px; color: black; text-decoration: none; white-space: nowrap;}
+
+a.button { font: 100% arial; border: solid 1px black; background-color: #e1e1e1;
+  text-align: center; padding: 1px; padding-left: 8px; padding-right: 8px; color: black;
+  text-decoration: none; white-space: nowrap;
+}
+
+
+a {color:#0048AF}
+a:visited{color:#0048AF}
+a.link1 {background:#FFFFE0;color:#383C93;font-weight:bold}
+a.link1:visited{background:#FFFFE0;color:#383C93;font-weight:bold}
+a.link1:hover {background:#FAC328;color:#383C93;font-weight:bold}
+a.order {color:red;text-decoration: none}
+img {border:0px}
+
+
+form {font-size:11px;color:#003366}
+input {font-size:11px;color:#003366}
+select {font-size:11px;color:#003366}
+textarea {font-size:11px;color:#003366}
+pre {font: 95% arial}
+
+.list_c {padding:4px;border-right:1px solid #A0BDEB;padding-left:5px}
+.list_h { background:#6186b0;border-bottom: 3px solid #A0BDEB; 
+                padding-top: 3px; padding-bottom: 3px;color:white;text-align:left; }
+
+th.list_c { border-bottom: 3px solid #A0BDEB;}
+
+tr.list_c_sel { border-right:1px solid #A0BDEB;border-bottom: 1px solid #A0BDEB;background:#e0e0e0;}
+tr.list-odd_c {padding:4px;border-right:1px solid #A0BDEB;background-color: #EAF2FF;}
+tr.list-even_c {padding:4px;border-right:1px solid #A0BDEB;background-color: white;}
+
+td.list_c { border-bottom: 1px solid #A0BDEB;}
+td.list_c_sel { border-right:1px solid #A0BDEB;border-bottom: 1px solid #A0BDEB;background:#e0e0e0;}
+td.list_sel {padding:4px;border-right:1px solid #A0BDEB;padding-left:5px;background:#e0e0e0;}
+td.list-button-bar {padding-top: 3px;  font-size: 115%;}
+td.orla {width:85px;height:85px;border: 1px solid #6186B0;font-size:9px;}
+td.orla:hover {width:85px;height:85px;border: 1px solid #FAC328;font-size:9px;}
+
+div.volver {background:#6186b0;color:#ffffff;padding-top:5px;padding-bottom:2px;display:inline}
+.volver {background:#6186b0;color:#ffffff;padding-top:5px;padding-bottom:2px;display:inline}
+
+.t_asig {background:#5C81B7;color:#ffffff;font-weight:bold;padding-top:5px;padding-bottom:2px;display:inline}
+.t_nota {border:2px solid orange; color:#5C81B7;font-weight:bold;padding-top:5px;padding-bottom:2px;display:inline}
+
+a.t_volver {background:#5C81B7;color:#ffffff;font-weight:bold;padding-top:5px;padding-bottom:2px;display:inline}
+a.t_volver:hover {background:#ffcc00;}
+.t_nom {color:#003E76;font: 125% arial; font-weight:bold}
+
+.t_grade { color:#003E76;border:2px solid orange; margin:5px; padding-bottom:5px; padding-top: 5px; font: 115% arial;font-weight:bold}
+
+

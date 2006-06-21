@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="quota" package_version="0.2d" locale="ca_ES" charset="ISO-8859-1">
+
+  <msg key="back">Tornar</msg>
+  <msg key="community">Comunitat</msg>
+  <msg key="community_details">Detalls de la Comunitat</msg>
+  <msg key="create_user_quota">Crear-se-la</msg>
+  <msg key="delete_user_quota">Eliminar quota</msg>
+  <msg key="Detailed_community_quota">QUOTA DETALLADA DE LA COMUNITAT</msg>
+  <msg key="Detailed_user_quota">QUOTA D'USUARI DETALLADA</msg>
+  <msg key="global_files">Nº Arxius</msg>
+  <msg key="Global_quota">QUOTA GLOBAL</msg>
+  <msg key="global_quota">Quota Global (KB)</msg>
+  <msg key="MaxFilesByCommunity_help">Nº màxim d'arxius per comunitat</msg>
+  <msg key="MaxFilesByUser_help">Nº màxim d'arxius per usuari</msg>
+  <msg key="MaxFilesByUserComm_help">Nº màxim d'arxius per usuari en una comunitat</msg>
+  <msg key="MaxFilesByUserFolder_help">Nº màxim d'arxius per directori personal</msg>
+  <msg key="MaxQuotaByCommunity_help">Quota màxima per comunitat (en KB)</msg>
+  <msg key="MaxQuotaByUser_help">Quota màxima per usuari (en KB)</msg>
+  <msg key="MaxQuotaByUserComm_help">Quota màxima per usuari en una comunitat (en KB)</msg>
+  <msg key="MaxQuotaByUserFolder_help">Quota màxima del directori personal de l'usuari (en KB)</msg>
+  <msg key="name">Nom</msg>
+  <msg key="no_quote_for_site_admin">Administrador exempt de quotes</msg>
+  <msg key="parameters">PARÀMETRES</msg>
+  <msg key="personal_files">Arxius Personals</msg>
+  <msg key="Personal_folder_quota">QUOTA DIRECTORI PERSONAL</msg>
+  <msg key="personal_quota">Quota Personal (KB)</msg>
+  <msg key="pretty_name">Quota</msg>
+  <msg key="quota_admin">Gestionar Quotes</msg>
+  <msg key="quota_by_community">QUOTA PER COMMUNITAT</msg>
+  <msg key="quota_by_user">QUOTA PER USUARI</msg>
+  <msg key="quota_files">Nº Fitxers</msg>
+  <msg key="quota_kb">Quota (KB)</msg>
+  <msg key="quota_off">El CONTROL DE QUOTES està desactivat</msg>
+  <msg key="quota_on">El CONTROL DE QUOTES està activat</msg>
+  <msg key="quota_set_off">(Desactivar)</msg>
+  <msg key="quota_set_on">(Activar)</msg>
+  <msg key="rest">Disponible</msg>
+  <msg key="save_changes">Guardar Canvis</msg>
+  <msg key="Search">Cercar</msg>
+  <msg key="select_community">Selecciona Comunitat</msg>
+  <msg key="select_user">Selecciona Usuari</msg>
+  <msg key="total">Total</msg>
+  <msg key="used">Utilitzat</msg>
+  <msg key="used_quota">Quota utilitzada (KB)</msg>
+  <msg key="user">Usuari</msg>
+  <msg key="user_details">Detalls d'usuari</msg>
+  <msg key="user_have_quota">L'Usuari té quota</msg>
+  <msg key="user_havent_quota">L'Usuari no té quota</msg>
+  <msg key="User_quota_by_community">QUOTA D'USUARI PER COMUNITATS</msg>
+  <msg key="username">Nom d'Usuari</msg>
+</message_catalog>

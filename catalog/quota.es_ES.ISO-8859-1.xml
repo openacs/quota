@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="quota" package_version="0.2d" locale="es_ES" charset="ISO-8859-1">
+
+  <msg key="back">Volver</msg>
+  <msg key="community">Comunidad</msg>
+  <msg key="community_details">Detalles de la Comunidad</msg>
+  <msg key="create_user_quota">Creársela</msg>
+  <msg key="delete_user_quota">Eliminar cuota</msg>
+  <msg key="Detailed_community_quota">CUOTA DETALLADA DE LA COMUNIDAD</msg>
+  <msg key="Detailed_user_quota">CUOTA DE USUARIO DETALLADA</msg>
+  <msg key="global_files">Nº Archivos</msg>
+  <msg key="Global_quota">CUOTA GLOBAL</msg>
+  <msg key="global_quota">Cuota Global (KB)</msg>
+  <msg key="MaxFilesByCommunity_help">Nº máximo de archivos por comunidad</msg>
+  <msg key="MaxFilesByUser_help">Nº máximo de archivos por usuario</msg>
+  <msg key="MaxFilesByUserComm_help">Nº máximo de archivos por usuario en una comunidad</msg>
+  <msg key="MaxFilesByUserFolder_help">Nº máximo de archivos por directorio personal</msg>
+  <msg key="MaxQuotaByCommunity_help">Cuota máxima por comunidad (en KB)</msg>
+  <msg key="MaxQuotaByUser_help">Cuota máxima por usuario (en KB)</msg>
+  <msg key="MaxQuotaByUserComm_help">Cuota máxima por usuario en una comunidad (en KB)</msg>
+  <msg key="MaxQuotaByUserFolder_help">Cuota máxima del directorio personal del usuario (en KB)</msg>
+  <msg key="name">Nombre</msg>
+  <msg key="no_quote_for_site_admin">Administrador exento de cuota</msg>
+  <msg key="parameters">PARÁMETROS</msg>
+  <msg key="personal_files">Archivos Personales</msg>
+  <msg key="Personal_folder_quota">CUOTA DIRECTORIO PERSONAL</msg>
+  <msg key="personal_quota">Cuota Personal (KB)</msg>
+  <msg key="pretty_name">Quota</msg>
+  <msg key="quota_admin">Gestionar Cuotas</msg>
+  <msg key="quota_by_community">CUOTA POR COMUNIDAD</msg>
+  <msg key="quota_by_user">CUOTA POR USUARIO</msg>
+  <msg key="quota_files">Nº Archivos</msg>
+  <msg key="quota_kb">Cuota (KB)</msg>
+  <msg key="quota_off">El CONTROL DE CUOTAS está desactivado</msg>
+  <msg key="quota_on">El CONTROL DE CUOTAS está activado</msg>
+  <msg key="quota_set_off">(Desactivar)</msg>
+  <msg key="quota_set_on">(Activar)</msg>
+  <msg key="rest">Disponible</msg>
+  <msg key="save_changes">Guardar Cambios</msg>
+  <msg key="Search">Buscar</msg>
+  <msg key="select_community">Selecciona Communidad</msg>
+  <msg key="select_user">Selecciona Usuario</msg>
+  <msg key="total">Total</msg>
+  <msg key="used">Usado</msg>
+  <msg key="used_quota">Cuota utilizada (KB)</msg>
+  <msg key="user">Usuario</msg>
+  <msg key="user_details">Detalles del usuario</msg>
+  <msg key="user_have_quota">El usuario tiene cuota</msg>
+  <msg key="user_havent_quota">El usuario no tiene cuota</msg>
+  <msg key="User_quota_by_community">CUOTA DE USUARIO POR COMUNIDADES</msg>
+  <msg key="username">Nombre de Usuario</msg>
+</message_catalog>

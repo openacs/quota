@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="quota" package_version="0.2d" locale="en_US" charset="ISO-8859-1">
+
+  <msg key="back">Back</msg>
+  <msg key="community">Community</msg>
+  <msg key="community_details">Community Details</msg>
+  <msg key="create_user_quota">Create user quota</msg>
+  <msg key="delete_user_quota">Delete quota</msg>
+  <msg key="Detailed_community_quota">DETAILED COMMUNITY QUOTA</msg>
+  <msg key="Detailed_user_quota">DETAILED USER QUOTA</msg>
+  <msg key="global_files">Global Files</msg>
+  <msg key="Global_quota">GLOBAL QUOTA</msg>
+  <msg key="global_quota">Global Quota (KB)</msg>
+  <msg key="MaxFilesByCommunity_help">Max. Number of files in a community</msg>
+  <msg key="MaxFilesByUser_help">Max. number of files by user</msg>
+  <msg key="MaxFilesByUserComm_help">Max. number of files by user-community</msg>
+  <msg key="MaxFilesByUserFolder_help">Max. number of files by user personal folder</msg>
+  <msg key="MaxQuotaByCommunity_help">Max. quota used by a community (in KB)</msg>
+  <msg key="MaxQuotaByUser_help">Max. quota used by user (in KB)</msg>
+  <msg key="MaxQuotaByUserComm_help">Max. quota used by user-community (in KB)</msg>
+  <msg key="MaxQuotaByUserFolder_help">Max. quota used by user personal folder (in KB)</msg>
+  <msg key="name">Name</msg>
+  <msg key="no_quote_for_site_admin">No quota for Site Admin</msg>
+  <msg key="parameters">PARAMETERS</msg>
+  <msg key="personal_files">Personal Files</msg>
+  <msg key="Personal_folder_quota">PERSONAL FOLDER QUOTA</msg>
+  <msg key="personal_quota">Personal Quota (KB)</msg>
+  <msg key="pretty_name">Quota</msg>
+  <msg key="quota_admin">Manage Quota</msg>
+  <msg key="quota_by_community">QUOTA BY COMMUNITY</msg>
+  <msg key="quota_by_user">QUOTA BY USER</msg>
+  <msg key="quota_files">Nº Files</msg>
+  <msg key="quota_kb">Quota (KB)</msg>
+  <msg key="quota_off">QUOTA CONTROL is currently off</msg>
+  <msg key="quota_on">QUOTA CONTROL is currently on</msg>
+  <msg key="quota_set_off">(turn it off)</msg>
+  <msg key="quota_set_on">(turn it on)</msg>
+  <msg key="rest">Available</msg>
+  <msg key="save_changes">Save Changes</msg>
+  <msg key="Search">Search</msg>
+  <msg key="select_community">Select Community</msg>
+  <msg key="select_user">Select User</msg>
+  <msg key="total">Total</msg>
+  <msg key="used">Used</msg>
+  <msg key="used_quota">Used Quota (KB)</msg>
+  <msg key="user">User</msg>
+  <msg key="user_details">User Details</msg>
+  <msg key="user_have_quota">User has quota</msg>
+  <msg key="user_havent_quota">User hasn't quota</msg>
+  <msg key="User_quota_by_community">USER QUOTA BY COMMUNITY</msg>
+  <msg key="username">Username</msg>
+</message_catalog>

@@ -1,13 +1,52 @@
+<html>
+<head>
+<title>Quota package</title>
+</head>
 
-Important:
-----------
+<body>
+<h2>Quota package</h2>
+by <a href="mailto:fransola@uv.es">Paco Soler, University of Valencia, Spain</a>
+on the 22:th of June 2006
+<hr>
 
-At this stage, quota only works with web uploads. Not webdav.
+QUOTA PACKAGE
 
-Besides to install the package quota, to make work it you must modify the file file-storage/www/file-add.tcl
-of a form similar to this:
+This package allow to control the number of files and the disk space
+used by users and communities. For this we need to add a checkpoint in
+the file "file-add.tcl" of the filestorage package (see below).
+(Warning: At this stage, quota only works with web uploads, no webdav, 
+because we have not add any checkpoint at that module. If you add 
+that checkpoint, report to us.)
+
+The site-admin is who manage the quota policy, accessing from contol
+panel of any course with the package instancied, and it consists of:
+
+    · Set maximum quota value allowed:
+        MaxQuotaByCommunity: Maximum quota by community in KB.
+        MaxQuotaByUser: Maximum quota by user in KB.
+        MaxQuotaByUserFolder: Maximum quota by user folder in KB.
+        MaxFilesByCommunity: Maximun number of files by community.
+        MaxFilesByUser: Maximun number of files by user.
+        MaxFilesByUserFolder: Maximun number of files by comunity.
+    · Create personalized quotes to users and communities.
+    · De/Activate quota control (entire site, by community or by user)
+
+If a community has not instancied the package by the course admin, it
+use default parameters values. If site-admin create a personalized quota
+for it, the package will be instancied automatically for this community.
+
+When a community has instancied the package studens/members can access
+to page with information of his detailed quota, and course-admin have
+another page with the state community quota. 
+
+At quota control we diference two cases: 
+    · Space used at Personal Folder: If the user don't exceed its
+personal folder quota he will upload files.
+    · Space used at Communities by users: If the user don't exceed its
+and the community quota he will upload files.
 
 
+######################################################################################################
 CHANGE THIS
 max_size -requires {upload_file} {
     set n_bytes [file size ${upload_file.tmpfile}]
@@ -35,4 +74,14 @@ max_size -requires {upload_file} {
     }
     #***************************************
 }
+######################################################################################################
+
+
+<hr>
+<address>
+<a href="mailto:fransola@uv.es">Paco Soler</a>
+</address>
+
+</body>
+</html>
 
